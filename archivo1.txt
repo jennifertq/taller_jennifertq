@@ -1,0 +1,16 @@
+Filesystem      1K-blocks      Used  Available Use% Mounted on
+/dev/sdc       1055762868   1667192 1000392204   1% /
+rootfs            4032748      1896    4030852   1% /init
+tmpfs             4035992         0    4035992   0% /sys/fs/cgroup
+none              4035992         0    4035992   0% /run
+none              4035992         0    4035992   0% /run/lock
+none              4035992         0    4035992   0% /run/shm
+none              4035992         0    4035992   0% /run/user
+none              4035992         0    4035992   0% /usr/lib/wsl/lib
+none              4035992         4    4035988   1% /mnt/wsl
+none              4035992        76    4035916   1% /mnt/wslg
+none              4035992        72    4035920   1% /mnt/wslg/versions.txt
+none              4035992        72    4035920   1% /mnt/wslg/doc
+drvfsa          324263716 310448704   13815012  96% /mnt/c
+drvfsa          174422012  66724856  107697156  39% /mnt/d
+drvfsa          104857600  91733340   13124260  88% /mnt/g
